@@ -1,0 +1,23 @@
+# Punjabi Lyric AI explicit-word list
+# One word/phrase per line. Lines beginning with # are ignored.
+fuck
+fucking
+fucked
+shit
+bitch
+bastard
+asshole
+dick
+piss
+motherfucker
+damn
+ਚੂਤ
+ਚੁਤ
+ਲੌੜਾ
+ਲੰਡ
+ਭੈਣਚੋਦ
+ਮਾਦਰਚੋਦ
+ਹਰਾਮੀ
+ਕੁੱਤੀ
+ਕੁੱਤਾ
+ਗਾਲੀ

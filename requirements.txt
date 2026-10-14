@@ -1,0 +1,11 @@
+customtkinter>=5.2.2
+transformers>=5.0.0
+huggingface_hub>=0.26.0
+torch>=2.4.0
+sentencepiece>=0.2.0
+sacremoses>=0.1.1
+IndicTransToolkit>=1.0.2
+pandas>=2.2.2
+scikit-learn>=1.5.2
+joblib>=1.4.2
+matplotlib>=3.9.0
